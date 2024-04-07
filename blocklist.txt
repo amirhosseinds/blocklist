@@ -17,3 +17,4 @@ downloadha.com
 p30download.com
 sanjesh.org
 downloadha.com
+browser.sentry-cdn.com
