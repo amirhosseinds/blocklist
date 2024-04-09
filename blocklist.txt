@@ -18,3 +18,4 @@ torob.com
 # p30download.com
 # downloadha.com
 browser.sentry-cdn.com
+business.samsungusa.com
