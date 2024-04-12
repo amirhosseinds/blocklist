@@ -1,15 +1,15 @@
 *.ir
-digikala.com
-tapsi.cab
-*.tapsi.cab
 sanjesh.org
-blogfa.com
-*.blogfa.com
-sheypoor.com
 telewebion.com
 filimo.com
-tgju.org
-torob.com
+tapsi.cab
+*.tapsi.cab
+# tgju.org
+# sheypoor.com
+# digikala.com
+# torob.com
+# blogfa.com
+# *.blogfa.com
 # tebyan.net
 # beytoote.com
 # setare.com
