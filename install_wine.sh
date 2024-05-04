@@ -34,7 +34,7 @@ wget -nv -O /usr/bin/winetricks https://raw.githubusercontent.com/Winetricks/win
     && chmod +x /usr/bin/winetricks
 
 wget https://raw.githubusercontent.com/amirhosseinds/blocklist/main/download_gecko_and_mono.sh
-RUN chmod +x download_gecko_and_mono.sh \
+chmod +x download_gecko_and_mono.sh \
     && download_gecko_and_mono.sh "$(wine --version | sed -E 's/^wine-//')"
 
 echo "export WINEPREFIX=/root/prefix32" >> /root/.bashrc
