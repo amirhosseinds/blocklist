@@ -33,7 +33,7 @@ apt install --install-recommends -y winehq-stable
 wget -nv -O /usr/bin/winetricks https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks \
     && chmod +x /usr/bin/winetricks
 
-wget https://raw.githubusercontent.com/amirhosseinds/blocklist/main/download_gecko_and_mono.sh
+wget -O download_gecko_and_mono.sh https://raw.githubusercontent.com/amirhosseinds/blocklist/main/download_gecko_and_mono.sh
 chmod +x download_gecko_and_mono.sh \
     && download_gecko_and_mono.sh "$(wine --version | sed -E 's/^wine-//')"
 
