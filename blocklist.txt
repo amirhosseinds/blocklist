@@ -19,6 +19,3 @@ tapsi.cab
 # downloadha.com
 browser.sentry-cdn.com
 business.samsungusa.com
-
-dot.karing.app
-outpost.karing.app
