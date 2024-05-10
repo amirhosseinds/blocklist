@@ -20,4 +20,5 @@ tapsi.cab
 browser.sentry-cdn.com
 business.samsungusa.com
 
-*.karing.app
+dot.karing.app
+outpost.karing.app
