@@ -4,18 +4,18 @@ telewebion.com
 filimo.com
 tapsi.cab
 *.tapsi.cab
-# tgju.org
-# sheypoor.com
-# digikala.com
-# torob.com
-# blogfa.com
-# *.blogfa.com
-# tebyan.net
-# beytoote.com
-# setare.com
-# sarzamindownload.com
-# downloadha.com
-# p30download.com
-# downloadha.com
+tgju.org
+sheypoor.com
+digikala.com
+torob.com
+blogfa.com
+*.blogfa.com
+tebyan.net
+beytoote.com
+setare.com
+sarzamindownload.com
+downloadha.com
+p30download.com
+downloadha.com
 browser.sentry-cdn.com
 business.samsungusa.com
